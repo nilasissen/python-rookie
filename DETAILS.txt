@@ -26,5 +26,10 @@ and it will play the fav song of the programer"""
 brain.py:::
 it include turtle. its a fun program it will draw a box and circle and we put it in a loop so it can
 make a design
+========================================================================================
+pirate.py::::
+this program simply convert from english to pirate language..
+=======================================================================================
+
 
 11/19/2014
