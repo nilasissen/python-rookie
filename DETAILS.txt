@@ -19,10 +19,12 @@ india.py::::
 """this program will teach you about the if and else and elif statements """
 ===============================================================================
 take_break::::
-"""this program is use full for those who site for long time in computer.This simple program is use for alarm clock .
+"""this program is use full for those who sit for long time in computer.This simple program is use for alarm clock .
 after every 2 hours of time it will open the browser 
 and it will play the fav song of the programer"""
 ===============================================================================
 brain.py:::
-it include turtle its a fun program it will draw a box and circle and we put it in a loop so it can
+it include turtle. its a fun program it will draw a box and circle and we put it in a loop so it can
 make a design
+
+11/19/2014
